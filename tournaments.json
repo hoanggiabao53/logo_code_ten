@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1792407100981",
+    "teamName": "MY PHÙNG",
+    "timeSlot": "18:00",
+    "group": 1,
+    "date": "2026-10-19",
+    "logoUrl": "/uploads/logo-1792407100975-962882220.png",
+    "status": "confirmed",
+    "nameCode": null,
+    "createdAt": "2026-10-19T10:51:40.981Z"
+  },
+  {
+    "id": "1792407799659",
+    "teamName": "MY PHÙNG",
+    "timeSlot": "20:00",
+    "group": 1,
+    "date": "2026-10-19",
+    "logoUrl": "/uploads/logo-1792407799652-752914160.png",
+    "status": "confirmed",
+    "nameCode": null,
+    "createdAt": "2026-10-19T11:03:19.659Z"
+  }
+]

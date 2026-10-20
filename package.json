@@ -1,0 +1,21 @@
+{
+  "name": "dangkicus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "ejs": "^7.0.2",
+    "express": "^5.3.0",
+    "multer": "^2.4.0",
+    "sharp": "^0.35.5"
+  }
+}
